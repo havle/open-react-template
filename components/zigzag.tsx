@@ -1,8 +1,8 @@
 import Image from 'next/image'
 
-import FeatImage01 from '@/public/images/waiter-taking-order-from-woman.jpg'
-import FeatImage02 from '@/public/images/closeup-waitress-serving-dessert-guest-cafe.jpg'
-import FeatImage03 from '@/public/images/tara_update.png'
+import FeatImage01 from '@/public/images/waiter-taking-order-from-woman.jpeg'
+import FeatImage02 from '@/public/images/tara_waitress.jpg'
+import FeatImage03 from '@/public/images/tara_update.jpg'
 import FeatImage04 from '@/public/images/tara_feedback.jpeg'
 export default function Zigzag() {
   return (

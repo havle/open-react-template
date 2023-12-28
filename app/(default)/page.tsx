@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Open PRO',
-  description: 'Page description',
+  title: 'Home - Tara.ai',
+  description: 'Casual dining Conversational AI assistant - Order, Requests, Payment, Feedback',
 }
 
 import Hero from '@/components/hero'

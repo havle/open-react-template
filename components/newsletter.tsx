@@ -33,7 +33,7 @@ const Newsletter: React.FC=()=> {
         restaurant: restaurant
     };
     try {
-      emailjs.send('service', 'template_l3tr7fy', templateParams)
+      emailjs.send('service-tara', 'template_l3tr7fy', templateParams)
         .then(function(response) {
           console.log('SUCCESS!', response.status, response.text);
           setStatusMessage("Thanks for subscribing!");

@@ -1,4 +1,5 @@
 import VideoThumb from '@/public/images/hero-image-01.jpg'
+import TaraVideoThumb from '@/public/images/tara_photo.jpg'
 import ModalVideo from '@/components/modal-video'
 
 export default function Hero() {
@@ -37,11 +38,11 @@ export default function Hero() {
           </div>
 
             <ModalVideo
-            thumb={VideoThumb}
+            thumb={TaraVideoThumb}
             thumbWidth={1024}
             thumbHeight={576}
             thumbAlt="Tara video thubmnail"
-            video="/videos/video.mp4"
+            video="/videos/tara_video.mp4"
             videoWidth={1920}
             videoHeight={1080} />
 

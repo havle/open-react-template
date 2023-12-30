@@ -43,8 +43,8 @@ export default function Hero() {
             thumbHeight={576}
             thumbAlt="Tara video thubmnail"
             video="/videos/tara_video.mp4"
-            videoWidth={1920}
-            videoHeight={1080} />
+            videoWidth={576}
+            videoHeight={480} />
 
         </div>
 

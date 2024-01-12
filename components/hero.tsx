@@ -38,14 +38,14 @@ export default function Hero() {
             {/* <div className="w-300 h-225 fi fi-vn fis"></div> */}
           </div>
          
-            <ModalVideo
+            {/* <ModalVideo
             thumb={TaraVideoThumb}
             thumbWidth={1024}
             thumbHeight={576}
             thumbAlt="Tara video thubmnail"
             video="/videos/tara_video.mp4"
             videoWidth={1920}
-            videoHeight={1080} />
+            videoHeight={1080} /> */}
 
         </div>
 
